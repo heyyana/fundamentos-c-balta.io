@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1smL09bg/TAYZWcDnLb38zsUQoZrkamATYfwnQRaL6n3xlKphJg7Auk3N9O9FPWhPTrzXSM2jKeZ2BjEtXmurw==",
+  "dgSpecHash": "GCEf/LTap2Dh1U/rp/c6UgLV5MFO5jzRJ8dFSz6mCs0gupi8pTbywqq5EfDAWSqbCq136uWNm85lqBppcZ+W7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Stopwatch\\Stopwatch.csproj",
+  "projectFilePath": "c:\\Users\\Aluno\\Desktop\\curso csharp\\Stopwatch\\Stopwatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

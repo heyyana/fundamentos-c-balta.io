@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Stopwatch\\Stopwatch.csproj": {}
+    "c:\\Users\\Aluno\\Desktop\\curso csharp\\Stopwatch\\Stopwatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Stopwatch\\Stopwatch.csproj": {
+    "c:\\Users\\Aluno\\Desktop\\curso csharp\\Stopwatch\\Stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Stopwatch\\Stopwatch.csproj",
+        "projectUniqueName": "c:\\Users\\Aluno\\Desktop\\curso csharp\\Stopwatch\\Stopwatch.csproj",
         "projectName": "Stopwatch",
-        "projectPath": "C:\\Users\\Aluno\\Stopwatch\\Stopwatch.csproj",
+        "projectPath": "c:\\Users\\Aluno\\Desktop\\curso csharp\\Stopwatch\\Stopwatch.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Stopwatch\\obj\\",
+        "outputPath": "c:\\Users\\Aluno\\Desktop\\curso csharp\\Stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
