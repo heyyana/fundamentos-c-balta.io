@@ -59,6 +59,7 @@ namespace Stopwatch
                 Thread.Sleep(1000);
             }
 
+
             Console.Clear();
             Console.WriteLine("Stopwatch finalizado!");
             Thread.Sleep(2500);
