@@ -19,3 +19,11 @@ Desenvolvimento de um cronômetro utilizando funções e o laço de repetição 
 ❌ 0 = Sair </br>
 ------------------------------------------- <br/>
 
+## 📝 TextEditor
+Desenvolvimento de um menu com opções de criar e salvar um texto e depois visualizar o que foi escrito <br/>
+-------- MENU -------- <br/>
+🖊 1 - Editar <br/>
+📄 2 - Abrir <br/>
+❌ 0 - Sair <br/>
+------------------------ <br/>
+
