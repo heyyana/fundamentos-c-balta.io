@@ -27,3 +27,5 @@ Desenvolvimento de um menu com opções de criar e salvar um texto e depois visu
 ❌ 0 - Sair <br/>
 ------------------------ <br/>
 
+## 📄 String
+Desenvolvimento de variás funções com edição de texto <br/>
