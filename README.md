@@ -1,5 +1,11 @@
 # fundamentos-csharp-balta.io
+<div align="center" style="display: inline_block">
+ <img width="55px" src="https://github.githubassets.com/images/mona-whisper.gif">
+ </div>
+
+<div align="center" style="display: inline_block">
 Curso de introdução ao C# da Balta.io
+</div>
 
 ## 🧮 Calculator 
 Desenvolvido uma calculadora em C# utilizando funções para cada opção e switch para acessar a opção desejada <br/>
